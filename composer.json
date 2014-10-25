@@ -1,0 +1,14 @@
+{
+    "name": "lc/doctrine-connect-bundle",
+    "description": "Manage doctrine connections",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lcallarec",
+            "email": "l.callarec@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
